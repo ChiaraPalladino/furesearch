@@ -1,6 +1,6 @@
 ## Annotation of the Anonymous Periplus of the Erythraean Sea 
 
-Author: Olivia Bishop, Furman University '27
+Author: Olivia Bishop, Furman University '27   
 Email: bishol3@furman.edu
  
 ### Introduction
@@ -23,9 +23,18 @@ Next, I was tasked with identifying the non-toponymic spatial entities present i
 
 For the final part of my research, I annotated and tagged mentions of orientation and distance in the text. There were two types of orientation mentioned in the periplus, one being "relative" which included phrases such as "to the left" or "to the right" and needed further context to understand (to the right of what?). The other was "absolute" which included phrases such as "to the west" or "to the east". All of these instances were identified and tagged with the 'orientation' tag and a further 'relative' or 'absolute' tag. Examples of distance in the text were phrases such as "three thousand stades", stades being a distance measurement that was used at the time. These were tagged with a 'distance' tag.
 
+<img width="1420" height="705" alt="image" src="https://github.com/user-attachments/assets/b96bce04-d605-49da-8566-9dca52d4b760" />   
+
+
 ### The Numbers
 
 Throughout my eight weeks of research, I annotated 429 places, 19 people, 15 events, and 458 "uncategorized" entities, according to Recogito's analytics, which would be the geoname, orientation, and distance tags. In total, I annotated 917 entities in the text, and made 638 tags (some entities such as regular place names, specific people, and events did not require tags but only annotations).
+
+<img width="403" height="207" alt="image" src="https://github.com/user-attachments/assets/09b54a1d-1cb3-4034-ba95-7e36a8f11f65" />  
+
+
+<img width="437" height="173" alt="image" src="https://github.com/user-attachments/assets/d24d1f08-ad55-4284-ba4b-b6b1d6627cef" />   
+
 
 ### My Thoughts
 
