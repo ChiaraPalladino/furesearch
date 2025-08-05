@@ -1,6 +1,9 @@
 # ToposText Potentially Erroneous Wikidata ID's + Misc. Other Errors
 ## This document includes entities that have Wikidata ID's that I believe to be erroneous, along with an explanation why, as well as other potential errors.
 
+### Book 1
+* (1.4.5) "Syrian Gates" maps on to Belen Pass, not what it's referring to which is the Syrian side of the Cilicia-Syria Gates. It likely fetches it's data from the Pleiades-658606 Syriai Pylai rather than the appropriate Pleiades-650508 Kilikiai Pylai.
+
 ### Book 5
 * (5.1.2) Random "2" after the sentence.
 *  (5.6.4) There is a random "24" in the middle of the words.
